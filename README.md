@@ -82,4 +82,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 2. Create a new branch for your changes.
 3. Make your changes and test thoroughly.
 4. Submit a pull request with a description of what you've done.
-# smart_home_app
+
